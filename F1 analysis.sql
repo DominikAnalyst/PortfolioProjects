@@ -2,6 +2,9 @@
 F1 Data Exploration 
 
 Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types, SubQuery
+
+Link for created dashboard in Tableau public:  https://public.tableau.com/app/profile/dominik.kudla/vizzes
+
 */
 
 -- TOP 10 constructor as points scored are concerned 1950-2023
